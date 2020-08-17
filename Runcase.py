@@ -17,3 +17,4 @@ HTMLTestRunner(stream=fp,title=u'NewWorld自动化测试报告',description=u'�
 fp.close()
 test='abc'
 print(test)
+print("hello world")
