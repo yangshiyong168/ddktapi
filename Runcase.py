@@ -15,3 +15,5 @@ print reportname
 fp=open(reportname,"wb")
 HTMLTestRunner(stream=fp,title=u'NewWorld自动化测试报告',description=u'描述').run(suit)
 fp.close()
+test='abc'
+print(test)
